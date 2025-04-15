@@ -1,0 +1,12 @@
+
+{
+    "num_inputs"          : 2,
+    "resolution"          : 10,
+    "input_max"           : [900, 0.04],
+    "input_min"           : [150, 0.01],
+    "batch_size"          : 3,
+    "epoch_size"          : 10,
+    "max_iter"            : 100,
+    "max_labels"          : 50,
+    "num_epochs_per_iter" : 5
+}
